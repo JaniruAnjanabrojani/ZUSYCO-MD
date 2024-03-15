@@ -15,12 +15,12 @@ Creator : @darkmakerofc , @mr-nima-x
 
 */
 
-module.exports = {ZUSYCO-QR-1.nima
+module.exports = {ZUSYCO-QR.nima
   OWNER_NUMBER: "94702551295",
   SUDO_NUMBERS : "94764805590,94719574492",
   OWNER_NAME: "『 CYBER JANI 』",
   BOT_NAME : "ＺＵＳＹＣＯ",
-  ZUSYCO_FILE : "ZUSYCO-QR-1.nima",
+  ZUSYCO_FILE : "ZUSYCO-QR.nima",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
