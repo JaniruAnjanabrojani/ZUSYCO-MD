@@ -16,11 +16,11 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {ZUSYCO-QR.nima
-  OWNER_NUMBER: "94764805580",
+  OWNER_NUMBER: "94702551295",
   SUDO_NUMBERS : "94764805590,94719574492",
   OWNER_NAME: "『 CYBER JANI 』",
   BOT_NAME : "ＺＵＳＹＣＯ",
-  ZUSYCO_FILE : "ZUSYCO-QR.nima",
+  ZUSYCO_FILE : "ZUSYCO-QR-1.nima",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
@@ -42,7 +42,7 @@ module.exports = {ZUSYCO-QR.nima
   ANTI_LINKS : 'chat.whatsapp.com',
   ANTI_LINK : false,
   ANTI_LINK_KICK : false,
-  MAX_SIZE : 500,
+  MAX_SIZE : 1000,
   MOROCCO_NUMBERS : {
         BLOCK : false,
         NOT_WORKING : false,
@@ -54,7 +54,7 @@ module.exports = {ZUSYCO-QR.nima
   },
   BOT_OFFLINE : true,
   INBOX_BLOCK : false,
-  AUTO_REACT : false,
+  AUTO_REACT : true,
   OWNER_REACT : '🤵‍♂️',
   AUTO_BGM : false,
   BGM : {
